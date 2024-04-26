@@ -6,7 +6,6 @@ int main()
 	std::cout << "Hello world in gitHub" << std::endl;
 	#undef N
 	int N = 26;
-	N = 28;
 	std::cout << N;
 	return 0;
 }
